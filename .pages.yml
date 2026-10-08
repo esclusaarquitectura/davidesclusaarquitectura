@@ -1,0 +1,136 @@
+media:
+  input: media
+  output: /media
+content:
+  - name: catala
+    label: "Textos en català"
+    type: file
+    path: content/ca.json
+    format: json
+    fields:
+      - name: heroEyebrow
+        label: "Subtítol principal"
+        type: string
+      - name: heroTitle
+        label: "Títol principal"
+        type: string
+      - name: heroText
+        label: "Presentació principal"
+        type: string
+      - name: servicesTitle
+        label: "Títol serveis"
+        type: string
+      - name: servicesIntro
+        label: "Introducció serveis"
+        type: string
+      - name: s1
+        label: "s1"
+        type: string
+      - name: d1
+        label: "d1"
+        type: string
+      - name: s2
+        label: "s2"
+        type: string
+      - name: d2
+        label: "d2"
+        type: string
+      - name: s3
+        label: "s3"
+        type: string
+      - name: d3
+        label: "d3"
+        type: string
+      - name: s4
+        label: "s4"
+        type: string
+      - name: d4
+        label: "d4"
+        type: string
+      - name: s5
+        label: "s5"
+        type: string
+      - name: d5
+        label: "d5"
+        type: string
+      - name: aboutTitle
+        label: "Títol sobre mi"
+        type: string
+      - name: aboutP1
+        label: "Presentació d'en David"
+        type: string
+      - name: aboutP2
+        label: "Segon paràgraf sobre mi"
+        type: string
+      - name: contactTitle
+        label: "Títol contacte"
+        type: string
+      - name: contactText
+        label: "Text contacte"
+        type: string
+  - name: castella
+    label: "Textos en castellà"
+    type: file
+    path: content/es.json
+    format: json
+    fields:
+      - name: heroEyebrow
+        label: "Subtítol principal"
+        type: string
+      - name: heroTitle
+        label: "Títol principal"
+        type: string
+      - name: heroText
+        label: "Presentació principal"
+        type: string
+      - name: servicesTitle
+        label: "Títol serveis"
+        type: string
+      - name: servicesIntro
+        label: "Introducció serveis"
+        type: string
+      - name: s1
+        label: "s1"
+        type: string
+      - name: d1
+        label: "d1"
+        type: string
+      - name: s2
+        label: "s2"
+        type: string
+      - name: d2
+        label: "d2"
+        type: string
+      - name: s3
+        label: "s3"
+        type: string
+      - name: d3
+        label: "d3"
+        type: string
+      - name: s4
+        label: "s4"
+        type: string
+      - name: d4
+        label: "d4"
+        type: string
+      - name: s5
+        label: "s5"
+        type: string
+      - name: d5
+        label: "d5"
+        type: string
+      - name: aboutTitle
+        label: "Títol sobre mi"
+        type: string
+      - name: aboutP1
+        label: "Presentació d'en David"
+        type: string
+      - name: aboutP2
+        label: "Segon paràgraf sobre mi"
+        type: string
+      - name: contactTitle
+        label: "Títol contacte"
+        type: string
+      - name: contactText
+        label: "Text contacte"
+        type: string
