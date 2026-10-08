@@ -24,34 +24,34 @@ content:
         label: "Introducció serveis"
         type: string
       - name: s1
-        label: "s1"
+        label: "Servei 1 · Nom"
         type: string
       - name: d1
-        label: "d1"
+        label: "Servei 1 · Descripció"
         type: string
       - name: s2
-        label: "s2"
+        label: "Servei 2 · Nom"
         type: string
       - name: d2
-        label: "d2"
+        label: "Servei 2 · Descripció"
         type: string
       - name: s3
-        label: "s3"
+        label: "Servei 3 · Nom"
         type: string
       - name: d3
-        label: "d3"
+        label: "Servei 3 · Descripció"
         type: string
       - name: s4
-        label: "s4"
+        label: "Servei 4 · Nom"
         type: string
       - name: d4
-        label: "d4"
+        label: "Servei 4 · Descripció"
         type: string
       - name: s5
-        label: "s5"
+        label: "Servei 5 · Nom"
         type: string
       - name: d5
-        label: "d5"
+        label: "Servei 5 · Descripció"
         type: string
       - name: aboutTitle
         label: "Títol sobre mi"
@@ -90,34 +90,34 @@ content:
         label: "Introducció serveis"
         type: string
       - name: s1
-        label: "s1"
+        label: "Servei 1 · Nom"
         type: string
       - name: d1
-        label: "d1"
+        label: "Servei 1 · Descripció"
         type: string
       - name: s2
-        label: "s2"
+        label: "Servei 2 · Nom"
         type: string
       - name: d2
-        label: "d2"
+        label: "Servei 2 · Descripció"
         type: string
       - name: s3
-        label: "s3"
+        label: "Servei 3 · Nom"
         type: string
       - name: d3
-        label: "d3"
+        label: "Servei 3 · Descripció"
         type: string
       - name: s4
-        label: "s4"
+        label: "Servei 4 · Nom"
         type: string
       - name: d4
-        label: "d4"
+        label: "Servei 4 · Descripció"
         type: string
       - name: s5
-        label: "s5"
+        label: "Servei 5 · Nom"
         type: string
       - name: d5
-        label: "d5"
+        label: "Servei 5 · Descripció"
         type: string
       - name: aboutTitle
         label: "Títol sobre mi"
