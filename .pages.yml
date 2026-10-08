@@ -134,3 +134,12 @@ content:
       - name: contactText
         label: "Text contacte"
         type: string
+  - name: fotografies
+    label: "Fotografies de la web"
+    type: file
+    path: content/photos.json
+    format: json
+    fields:
+      - name: davidPhoto
+        label: "Fotografia d'en David (apartat Sobre mi)"
+        type: image
